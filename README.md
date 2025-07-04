@@ -101,7 +101,9 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 ## 📫 Connect With Me
 
 📧 **Email:** [srivarshitha0508@gmail.com](mailto:srivarshitha0508@gmail.com)
+
 🔗 **LinkedIn:** [www.linkedin.com/in/srivarshitha-sriperambudur](https://linkedin.com/in/srivarshitha-sriperambudur)
+
 📂 **GitHub Portfolio:** [github.com/SriVarshitha-Sriperambudur](https://github.com/SriVarshitha-Sriperambudur)
 
 
