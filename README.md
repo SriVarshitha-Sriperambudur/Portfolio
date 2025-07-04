@@ -32,7 +32,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 * Smooth & Stable Output Rendering: Integrated Exponential Moving Average (EMA) filters to reduce jitter and provide a natural, fluid drawing experience.
 ---
 
-### 🧠 [Career Prediction using Machine Learning](https://github.com/SriVarshitha-Sriperambudur/career-prediction-ml)
+### 🧠 [Career Prediction using Machine Learning](https://github.com/SriVarshitha-Sriperambudur/Career-prediction-using-ML)
 
 **Your future, predicted by data.**
 
