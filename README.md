@@ -92,9 +92,9 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 ## 📜 Certifications
 
-* ✅ [**Accenture** – Data Analytics and Visualization Virtual Internship](C:\Users\sriva\Downloads\DataAnalytics_Accenture.pdf)
-* ✅ [**SAWIT.AI** – Learnathon on Generative AI](C:\Users\sriva\Downloads\SAWIT.jpg)
-* ✅ [**Skilligence EDTech** – AI & Machine Learning Fundamentals](C:\Users\sriva\Downloads\Skilligence AIML.pdf)
+* ✅ **Accenture** – Data Analytics and Visualization Virtual Internship
+* ✅ **SAWIT.AI** – Learnathon on Generative AI
+* ✅ **Skilligence EDTech** – AI & Machine Learning Fundamentals
 
 ---
 
