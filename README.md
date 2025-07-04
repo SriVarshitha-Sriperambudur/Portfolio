@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🛠️ Tools and Technologies
 
 **Languages:**
 `Python`, `Java`, `C`, `SQL`
@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 ---
 
-## 💼 Projects Showcase
+## Featured Projects
 
 ### 🖐️ [Air Canvas: A Computer Vision-Based Drawing System with SVM-Powered ASL Recognition](https://github.com/SriVarshitha-Sriperambudur/Air-Canvas-A-Computer-Vision-Based-Drawing-System-with-SVM-Powered-ASL-Recognition)
 
@@ -100,7 +100,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 ## 📫 Connect With Me
 
-📧 **Email:** [srivarshitha0508@gmail.com](mailto:srivarshitha0508@gmail.com)
+📧 [Email](mailto:srivarshitha0508@gmail.com)
 
 🔗 **LinkedIn:** [www.linkedin.com/in/srivarshitha-sriperambudur](https://linkedin.com/in/srivarshitha-sriperambudur)
 
