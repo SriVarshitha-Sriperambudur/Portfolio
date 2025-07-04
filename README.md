@@ -104,6 +104,8 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 🔗 [LinkedIn](https://linkedin.com/in/srivarshitha-sriperambudur)
 
-📂 **GitHub Portfolio:** [github.com/SriVarshitha-Sriperambudur](https://github.com/SriVarshitha-Sriperambudur)
+📂 [GitHub](https://github.com/SriVarshitha-Sriperambudur)
+
+Visit My Portfolio - S Sri Varshitha
 
 
