@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 ---
 
-### 📖 [Book Recommendation System](https://github.com/SriVarshitha-Sriperambudur/book-recommendation-ml)
+### 📖 [Book Recommendation System](https://github.com/SriVarshitha-Sriperambudur/Book-Recommendation-System)
 
 **Find the next book you love.**
 
