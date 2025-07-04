@@ -55,7 +55,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 ---
 
 
-### 📊 [Plagiarism Detection using NLP](https://github.com/SriVarshitha-Sriperambudur/plagiarism-detection-nlp)
+### 📊 [Plagiarism Detection using NLP](https://github.com/SriVarshitha-Sriperambudur/Plagiarism-Detection)
 
 **Smart plagiarism checker powered by TF-IDF.**
 
