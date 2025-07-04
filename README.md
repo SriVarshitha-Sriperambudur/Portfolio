@@ -67,7 +67,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 ---
 
-### 👮‍♀️ [Fraud Detection using ANN (MLPClassifier)](https://github.com/SriVarshitha-Sriperambudur/fraud-detection-ann)
+### 👮‍♀️ [Fraud Detection using ANN (MLPClassifier)](https://github.com/SriVarshitha-Sriperambudur/Social-Media-Fraud-Detection-using-ANN)
 
 **Detect fake social media users with machine learning.**
 
