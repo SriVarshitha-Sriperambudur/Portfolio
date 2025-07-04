@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 ## 💼 Projects Showcase
 
-### 🖐️ [Air Canvas: A Computer Vision-Based Drawing System with SVM-Powered ASL Recognition](https://github.com/SriVarshitha-Sriperambudur/Air-Canvas: A-Computer-Vision-Based-Drawing-System-with-SVM-Powered-ASL-Recognition)
+### 🖐️ [Air Canvas: A Computer Vision-Based Drawing System with SVM-Powered ASL Recognition](https://github.com/SriVarshitha-Sriperambudur/Air-Canvas-A-Computer-Vision-Based-Drawing-System-with-SVM-Powered-ASL-Recognition)
 
 **Draw in the air using your fingers!**
 * Real-Time Hand Tracking: Implemented using MediaPipe and OpenCV to detect and track hand landmarks with high accuracy for interactive drawing.
