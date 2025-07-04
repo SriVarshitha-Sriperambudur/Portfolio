@@ -78,7 +78,7 @@ Welcome to my GitHub! I'm Srivarshitha Sriperambudur, a passionate and purpose-d
 
 ---
 
-### 🖼️ [Image Colorization using U-Net](https://github.com/SriVarshitha-Sriperambudur/image-colorization-unet)
+### 🖼️ [Image Colorization using U-Net](https://github.com/SriVarshitha-Sriperambudur/Image-Colorization-using-U-NET)
 
 **Bringing grayscale images to life.**
 
